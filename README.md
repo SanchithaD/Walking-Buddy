@@ -1,5 +1,5 @@
 # Walking-Buddy
-Inspiration
+## Inspiration
 We find ourselves wanting to walk to school, but we can't, because we don't know who to walk with, or we don't schedule a time in the morning.
 
 ## What it does
